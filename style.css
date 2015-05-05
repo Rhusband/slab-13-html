@@ -16,6 +16,7 @@ h2{
 	text-decoration: underline;
 }
 body {
+	background: white url(http://33.media.tumblr.com/89f0cbdea2470775ce8e117843323dce/tumblr_nkm2j8M2RC1ql5yr7o2_500.gif) repeat top right;
 	font-family: sans-serif;
 }
 #intro{
@@ -28,4 +29,4 @@ body {
 }
 p, h2{
 	color: #305E30;
-}
+lnk:hover {text-transform:uppercase;}
