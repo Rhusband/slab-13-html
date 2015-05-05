@@ -1,5 +1,4 @@
 p {
-    color: #0000FF;
     font-size: 12px;
     text-decoration: line-through;
 }
@@ -14,9 +13,19 @@ h1 {
 	border-style: dashed;
 }
 h2{
-	background-color: #888888;
 	text-decoration: underline;
 }
 body {
 	font-family: sans-serif;
+}
+#intro{
+	border-width: 1px;
+	border-style: solid;
+	border-color: black;
+}
+.spotlight{
+	background-color: #FEFE22;
+}
+p, h2{
+	color: #305E30;
 }
